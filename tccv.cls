@@ -72,7 +72,7 @@
     \begin{center}
     \vskip-\lastskip%
     {\usekomafont{part} #1} \medskip\\
-    {\fontfamily{pzc}\selectfont\Huge Data-Oriented CS Engineer}
+    {\fontfamily{pzc}\selectfont\Huge Data Science Engineer}
     \bigskip
     \end{center}]}
 
